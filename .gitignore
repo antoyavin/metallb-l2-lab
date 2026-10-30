@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Éditeurs
+.idea/
+.vscode/
+*.swp
+
+# Fichiers d'accès au cluster
+kubeconfig
+*.kubeconfig
+k3s.yaml
+
+# Divers
+*.log
+*.pcap
